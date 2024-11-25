@@ -1,0 +1,36 @@
+{
+  "asignaturas": [
+    {
+      "id": 1,
+      "nombre": "Matemáticas 101",
+      "description": "Curso introductorio a las matemáticas",
+      "image": "url_imagen_1",
+      "profesor": "Prof. Juan Pérez",
+      "date": "2024-10-22"
+    },
+    {
+      "id": 2,
+      "nombre": "Física 101",
+      "description": "Fundamentos de la física",
+      "image": "url_imagen_2",
+      "profesor": "Prof. María López",
+      "date": "2024-10-23"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    }
+  ]
+}
